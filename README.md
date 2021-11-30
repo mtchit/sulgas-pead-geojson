@@ -1,2 +1,14 @@
-# sulgas-pead-geojson
-Downloads and converts the Sulgás (Companhia de Gás do Estado do Rio Grande do Sul) PEAD mesh data to GeoJson format
+# Sulgas PEAD GeoJSON
+
+Downloads and converts the Sulgas PEAD mesh data to GeoJson format
+
+## Setup
+
+```
+npm install
+```
+
+## Run
+```
+node index.js > output_file_path
+```

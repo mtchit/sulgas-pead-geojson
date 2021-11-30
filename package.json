@@ -1,0 +1,23 @@
+{
+  "name": "sulgas-pead-geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mtchit/sulgas-pead-geojson.git"
+  },
+  "author": "Felipe Carlos Werlang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtchit/sulgas-pead-geojson/issues"
+  },
+  "homepage": "https://github.com/mtchit/sulgas-pead-geojson#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
